@@ -198,7 +198,3 @@ data-localMusic属性：本地音乐，填写 playlistData.json 文件路径【�
 
 
 
-#### 保姆级视频教程
-
- **https://www.bilibili.com/video/BV1kP411p7RK/** 
-
