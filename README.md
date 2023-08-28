@@ -10,6 +10,9 @@ gui-MusicPlayer.js插件是一款由小枫独立开发的开源式的HTML5悬浮
  **演示站** 
 https://y.cenguigui.cn/YYDS/musicPlayer/
 
+###  开源地址：
+![https://gitee.com/cenguigui/html5-music-player](https://gitee.com/cenguigui/html5-music-player)
+
 #### 展示图
 
 ![gui-MusicPlayer-pic](https://www.cenguigui.cn/usr/uploads/2023/08/2818457527.png)
