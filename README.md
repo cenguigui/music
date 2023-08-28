@@ -47,6 +47,26 @@ https://gitee.com/cenguigui/html5-music-player
 </html> // 结尾
 ```
 
+- 俺用的是一下的：
+```
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>demo</title>
+    <link rel="shortcut icon" href="https://y.cenguigui.cn/lihua/image/logo.jpg" type="image/x-icon">
+</head>
+<body>
+    <!--注释，加载热歌榜，设置cdn引入的路径，选择播放器颜色，让播放器淡出-->
+    <div id="gui-MusicPlayer" data-songChart="热歌榜" data-cdnName="https://y.cenguigui.cn/js" data-themeColor="gui-wineRed" data-fadeOutAutoplay></div>
+    <script src="https://y.cenguigui.cn/js/gui-MusicPlayer/js/gui-MusicPlayer.js"></script>
+</body>
+</html>
+
+```
+
 - 方法一：直接引入插件CDN，复制下面的代码就能直接使用（注意data-cdnName的属性不能删除）
 
 ```
