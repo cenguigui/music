@@ -47,7 +47,7 @@ https://gitee.com/cenguigui/html5-music-player
 </html> // 结尾
 ```
 
-- 俺用的是一下的：
+- 俺用的是以下的：
 ```
 
 <!DOCTYPE html>
