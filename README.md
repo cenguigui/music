@@ -48,8 +48,8 @@ https://gitee.com/cenguigui/html5-music-player
 ```
 
 - 俺用的是以下的：
-```
 
+```
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -64,7 +64,6 @@ https://gitee.com/cenguigui/html5-music-player
     <script src="https://y.cenguigui.cn/js/gui-MusicPlayer/js/gui-MusicPlayer.js"></script>
 </body>
 </html>
-
 ```
 
 - 方法一：直接引入插件CDN，复制下面的代码就能直接使用（注意data-cdnName的属性不能删除）
